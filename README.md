@@ -8,7 +8,6 @@
 
 🔥 And for that matter, click a star for each project!
 
-
 You can reach me anywhere 👇
 
 🔥 Skype: **yarik042004**
