@@ -1,6 +1,6 @@
 🛑 Attention! You're on the teritory of **creativity** 🛑
 
-[![](https://github-readme-stats.vercel.app/api?username=YarikRevich)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=YarikRevich&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ✅ To feel at home, follow further rules
 
