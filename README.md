@@ -1,15 +1,12 @@
-🛑 Attention! You're on the teritory of **creativity** 🛑
+<h1 align="center">Yarik Revich</h1>
 
 [![](https://github-readme-stats.vercel.app/api?username=YarikRevich&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-✅ To feel at home, follow further rules
+✅ There are some local rules you should follow:
 
-🔥 Here is only low level code(mostly😉), only hardcore!
+- +🔥 Like experiments!
+- +🔥 Be comfortable for contribution!
 
-🔥 I'm welcome for contribution, for any project
+Me in social media👇
 
-🔥 And for that matter, click a star for each project!
-
-You can reach me anywhere 👇
-
-🔥 LinkedIn: **https://www.linkedin.com/in/yaroslav-svitlitskyi-aba26b19b**
+⤵️ LinkedIn: **https://www.linkedin.com/in/yaroslav-svitlitskyi-aba26b19b**
