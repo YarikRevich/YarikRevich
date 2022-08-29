@@ -6,7 +6,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=YarikRevich&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarikRevich&layout=compact" height = "170" align=center /> &nbsp;&nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YarikRevich&hide=c%2B%2B,cmake,makefile,html,css,starlark,hcl,shaderlab,hlsl,tcl,glsl,shell,dockerfile,vimscript&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YarikRevich" height = "170" align=center />
 
